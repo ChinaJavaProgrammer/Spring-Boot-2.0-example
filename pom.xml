@@ -1,0 +1,98 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.springboot</groupId>
+  <artifactId>com.springbootexample</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>com.springbootexample</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+    <!-- spring boot web项目依赖 -->
+ <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+        <version>2.0.0.RELEASE</version>
+        <exclusions>
+         <exclusion>
+          <groupId>org.springframework.boot</groupId>
+           <artifactId>spring-boot-starter-tomcat</artifactId>
+        <version>2.0.0.RELEASE</version>
+         </exclusion>
+        </exclusions>
+ </dependency>
+ 
+ <!-- 热部署 -->
+ <dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-devtools</artifactId>
+  <optional>true</optional>
+  <version>2.0.0.RELEASE</version>
+ </dependency>
+ 
+  <!-- AOP -->
+ <dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-aop</artifactId>
+  <optional>true</optional>
+  <version>2.0.0.RELEASE</version>
+ </dependency>
+ 
+ <!-- thymeleaf引擎 -->
+ <dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-thymeleaf</artifactId>
+    <version>2.0.0.RELEASE</version>
+</dependency>
+
+ <!-- 事物管理 -->
+ <dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-jdbc</artifactId>
+    <version>2.0.0.RELEASE</version>
+</dependency>
+ 
+  <!-- HikariCP连接池号称最快的连接池 -->
+<dependency>
+    <groupId>com.zaxxer</groupId>
+    <artifactId>HikariCP</artifactId>
+    <version>3.3.1</version>
+</dependency>
+
+  <!-- mysql驱动 -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>6.0.5</version>
+</dependency>
+
+  <!-- spring data jpa -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-data-jpa</artifactId>
+     <version>2.0.0.RELEASE</version>
+</dependency>
+
+  <!-- Undertow服务器高性能 -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-undertow</artifactId>
+     <version>2.0.0.RELEASE</version>
+</dependency>
+
+  </dependencies>
+  <build>
+  </build>
+</project>

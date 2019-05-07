@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" th:src="@{/js/jquery-3.3.1.min.js}"></script>
+<script type="text/javascript">
+
+$(function(){
+	$("#sendAjax").click(function(){
+		if($("#text").val().trim()==""){
+			alert("请输入地址")
+			return;
+		}
+		if($("#data").val().trim()==""){
+			alert("请输入地址")
+			return;
+		}
+		if($("#method").val().trim()==""){
+			alert("请输入地址")
+			return;
+		}
+		$.ajax({
+			url:$("#text").val(),
+			type:$("#method").val(),
+			data:$("#data").val(),
+			jsonp:"callback", //回调函数的jsonp的值参数值必须要
+			dataType:"jsonp",
+			success:function(data){
+				alert("s")
+				$("#result").text(JSON.stringify(data))
+			},
+			error:function(data){
+				alert(data.password)
+				alert("e")
+				$("#result").text(JSON.stringify(data))
+			}
+		})
+	})
+})
+</script>
+</head>
+<body>
+    <p th:text="${error}"></p>
+    
+</body>
+</html>
