@@ -1,0 +1,656 @@
+2019-05-07 20:53:12.145  INFO 16172 --- [restartedMain] c.springboot.com.springbootexample.App   : Starting App on CHINA-20190414F with PID 16172 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+2019-05-07 20:53:12.146  INFO 16172 --- [restartedMain] c.springboot.com.springbootexample.App   : No active profile set, falling back to default profiles: default
+2019-05-07 20:53:12.653  WARN 16172 --- [restartedMain] io.undertow.websockets.jsr               : UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+2019-05-07 20:53:12.654  WARN 16172 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-05-07 20:53:12.655  INFO 16172 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-05-07 20:53:12.762  INFO 16172 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2019-05-07 20:53:12.768  INFO 16172 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2019-05-07 20:53:13.253  WARN 16172 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-05-07 20:53:13.532  INFO 16172 --- [restartedMain] c.springboot.com.springbootexample.App   : Started App in 1.497 seconds (JVM running for 581.032)
+2019-05-07 20:55:19.781  INFO 16172 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2019-05-07 20:55:19.787  INFO 16172 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2019-05-07 20:55:37.166  INFO 21624 --- [restartedMain] c.springboot.com.springbootexample.App   : Starting App on CHINA-20190414F with PID 21624 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+2019-05-07 20:55:37.169  INFO 21624 --- [restartedMain] c.springboot.com.springbootexample.App   : No active profile set, falling back to default profiles: default
+2019-05-07 20:55:39.270  WARN 21624 --- [restartedMain] io.undertow.websockets.jsr               : UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+2019-05-07 20:55:39.271  WARN 21624 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-05-07 20:55:39.302  INFO 21624 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-05-07 20:55:39.650  INFO 21624 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-05-07 20:55:39.766  INFO 21624 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-05-07 20:55:41.698  WARN 21624 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-05-07 20:55:42.373  INFO 21624 --- [restartedMain] c.springboot.com.springbootexample.App   : Started App in 5.602 seconds (JVM running for 6.763)
+2019-05-07 21:00:46.026  INFO 21624 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-05-07 21:00:46.031  INFO 21624 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+INFO 2019-05-07 21:01:00,578 [restartedMain] $logger{20}.logStarting 50 :Starting App on CHINA-20190414F with PID 22920 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:01:00,622 [restartedMain] $logger{20}.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:01:02,523 [restartedMain] $logger{20}.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:01:02,525 [restartedMain] $logger{20}.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:01:02,550 [restartedMain] $logger{20}.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:01:02,917 [restartedMain] $logger{20}.getConnection 110 :HikariPool-1 - Starting...
+INFO 2019-05-07 21:01:03,030 [restartedMain] $logger{20}.getConnection 123 :HikariPool-1 - Start completed.
+WARN 2019-05-07 21:01:04,895 [restartedMain] $logger{20}.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:01:05,525 [restartedMain] $logger{20}.logStarted 59 :Started App in 5.313 seconds (JVM running for 6.383)
+INFO 2019-05-07 21:09:34,812 [RMI TCP Connection(2)-127.0.0.1] $logger{20}.close 350 :HikariPool-1 - Shutdown initiated...
+INFO 2019-05-07 21:09:34,817 [RMI TCP Connection(2)-127.0.0.1] $logger{20}.close 352 :HikariPool-1 - Shutdown completed.
+INFO 2019-05-07 21:09:42,168 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:09:42,169 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:09:44,316 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:09:44,317 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:09:44,341 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:09:44,740 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-1 - Starting...
+INFO 2019-05-07 21:09:44,874 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-1 - Start completed.
+WARN 2019-05-07 21:09:46,844 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:09:47,526 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 5.757 seconds (JVM running for 6.927)
+INFO 2019-05-07 21:13:50,445 [Thread-6] c.z.h.HikariDataSource.close 350 :HikariPool-1 - Shutdown initiated...
+INFO 2019-05-07 21:13:50,452 [Thread-6] c.z.h.HikariDataSource.close 352 :HikariPool-1 - Shutdown completed.
+INFO 2019-05-07 21:13:51,004 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:13:51,004 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:13:51,548 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:13:51,548 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:13:51,549 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:13:51,658 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-2 - Starting...
+INFO 2019-05-07 21:13:51,666 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-2 - Start completed.
+WARN 2019-05-07 21:13:52,190 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:13:52,477 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.516 seconds (JVM running for 251.877)
+INFO 2019-05-07 21:26:01,285 [Thread-9] c.z.h.HikariDataSource.close 350 :HikariPool-2 - Shutdown initiated...
+INFO 2019-05-07 21:26:01,292 [Thread-9] c.z.h.HikariDataSource.close 352 :HikariPool-2 - Shutdown completed.
+INFO 2019-05-07 21:26:01,590 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:26:01,590 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:26:02,194 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:26:02,195 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:26:02,197 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:26:02,304 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-3 - Starting...
+INFO 2019-05-07 21:26:02,310 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-3 - Start completed.
+WARN 2019-05-07 21:26:02,765 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:26:03,040 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.485 seconds (JVM running for 982.44)
+INFO 2019-05-07 21:27:36,529 [XNIO-7 task-1] io.undertow.servlet.log 360 :Initializing Spring FrameworkServlet 'dispatcherServlet'
+WARN 2019-05-07 21:27:36,578 [XNIO-7 task-1] o.s.w.s.PageNotFound.handleHttpRequestMethodNotSupported 250 :Request method 'POST' not supported
+WARN 2019-05-07 21:27:36,579 [XNIO-7 task-1] o.s.w.s.m.s.DefaultHandlerExceptionResolver.logException 193 :Resolved exception caused by Handler execution: org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+INFO 2019-05-07 21:27:36,636 [XNIO-7 task-1] c.s.c.s.c.ErrorController.getErrorPath 66 :405,Request method 'POST' not supported
+ERROR 2019-05-07 21:27:43,468 [XNIO-7 task-2] io.undertow.request.handleThrowable 80 :UT005023: Exception handling request to /test@Value.json
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'server.port' in value "${server.port}"
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:986) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:870) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:855) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:64) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:336) [undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830) [undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_161]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_161]
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'server.port' in value "${server.port}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:834) ~[spring-beans-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveStringValue(AbstractNamedValueMethodArgumentResolver.java:188) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:109) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:124) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:161) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:131) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:870) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:776) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:978) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	... 51 common frames omitted
+INFO 2019-05-07 21:27:43,472 [XNIO-7 task-2] c.s.c.s.c.ErrorController.getErrorPath 66 :500,Request processing failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'server.port' in value "${server.port}"
+java.lang.IllegalArgumentException: Could not resolve placeholder 'server.port' in value "${server.port}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:834) ~[spring-beans-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveStringValue(AbstractNamedValueMethodArgumentResolver.java:188) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:109) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:124) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:161) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:131) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:870) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:776) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:978) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:870) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:855) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:64) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:336) [undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830) [undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_161]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_161]
+INFO 2019-05-07 21:28:03,780 [Thread-14] c.z.h.HikariDataSource.close 350 :HikariPool-3 - Shutdown initiated...
+INFO 2019-05-07 21:28:03,786 [Thread-14] c.z.h.HikariDataSource.close 352 :HikariPool-3 - Shutdown completed.
+INFO 2019-05-07 21:28:03,787 [Thread-14] io.undertow.servlet.log 360 :Destroying Spring FrameworkServlet 'dispatcherServlet'
+INFO 2019-05-07 21:28:04,102 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:28:04,102 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:28:04,614 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:28:04,615 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:28:04,616 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:28:04,708 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-4 - Starting...
+INFO 2019-05-07 21:28:04,713 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-4 - Start completed.
+WARN 2019-05-07 21:28:05,172 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:28:05,419 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.348 seconds (JVM running for 1104.82)
+INFO 2019-05-07 21:28:21,460 [XNIO-9 task-1] io.undertow.servlet.log 360 :Initializing Spring FrameworkServlet 'dispatcherServlet'
+ERROR 2019-05-07 21:28:21,483 [XNIO-9 task-1] io.undertow.request.handleThrowable 80 :UT005023: Exception handling request to /test@Value.json
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'server.port' in value "${server.port}"
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:986) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:870) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:855) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:64) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:336) [undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830) [undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_161]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_161]
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'server.port' in value "${server.port}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:834) ~[spring-beans-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveStringValue(AbstractNamedValueMethodArgumentResolver.java:188) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:109) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:124) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:161) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:131) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:870) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:776) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:978) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	... 51 common frames omitted
+INFO 2019-05-07 21:28:21,487 [XNIO-9 task-1] c.s.c.s.c.ErrorController.getErrorPath 66 :500,Request processing failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'server.port' in value "${server.port}"
+java.lang.IllegalArgumentException: Could not resolve placeholder 'server.port' in value "${server.port}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:834) ~[spring-beans-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveStringValue(AbstractNamedValueMethodArgumentResolver.java:188) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:109) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:124) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:161) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:131) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:870) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:776) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:978) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:870) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:855) ~[spring-webmvc-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:64) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.SessionRestoringHandler.handleRequest(SessionRestoringHandler.java:119) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:292) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:81) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:138) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:272) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:81) ~[undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:104) [undertow-servlet-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:336) [undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830) [undertow-core-1.4.22.Final.jar:1.4.22.Final]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_161]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_161]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_161]
+INFO 2019-05-07 21:30:10,322 [Thread-19] c.z.h.HikariDataSource.close 350 :HikariPool-4 - Shutdown initiated...
+INFO 2019-05-07 21:30:10,328 [Thread-19] c.z.h.HikariDataSource.close 352 :HikariPool-4 - Shutdown completed.
+INFO 2019-05-07 21:30:10,330 [Thread-19] io.undertow.servlet.log 360 :Destroying Spring FrameworkServlet 'dispatcherServlet'
+INFO 2019-05-07 21:30:10,738 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:30:10,738 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:30:11,298 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:30:11,299 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:30:11,300 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:30:11,410 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-5 - Starting...
+INFO 2019-05-07 21:30:11,417 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-5 - Start completed.
+WARN 2019-05-07 21:30:11,840 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:30:12,082 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.388 seconds (JVM running for 1231.482)
+INFO 2019-05-07 21:30:20,514 [XNIO-11 task-1] io.undertow.servlet.log 360 :Initializing Spring FrameworkServlet 'dispatcherServlet'
+INFO 2019-05-07 21:30:30,684 [Thread-24] c.z.h.HikariDataSource.close 350 :HikariPool-5 - Shutdown initiated...
+INFO 2019-05-07 21:30:30,693 [Thread-24] c.z.h.HikariDataSource.close 352 :HikariPool-5 - Shutdown completed.
+INFO 2019-05-07 21:30:30,694 [Thread-24] io.undertow.servlet.log 360 :Destroying Spring FrameworkServlet 'dispatcherServlet'
+INFO 2019-05-07 21:30:31,070 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:30:31,071 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:30:31,550 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:30:31,551 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:30:31,553 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:30:31,653 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-6 - Starting...
+INFO 2019-05-07 21:30:31,665 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-6 - Start completed.
+WARN 2019-05-07 21:30:32,085 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:30:32,505 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.475 seconds (JVM running for 1251.906)
+INFO 2019-05-07 21:31:01,415 [Thread-29] c.z.h.HikariDataSource.close 350 :HikariPool-6 - Shutdown initiated...
+INFO 2019-05-07 21:31:01,420 [Thread-29] c.z.h.HikariDataSource.close 352 :HikariPool-6 - Shutdown completed.
+INFO 2019-05-07 21:31:01,768 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:31:01,769 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:31:02,229 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:31:02,229 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:31:02,230 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:31:02,325 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-7 - Starting...
+INFO 2019-05-07 21:31:02,330 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-7 - Start completed.
+WARN 2019-05-07 21:31:02,712 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:31:02,947 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.209 seconds (JVM running for 1282.347)
+INFO 2019-05-07 21:36:29,187 [Thread-34] c.z.h.HikariDataSource.close 350 :HikariPool-7 - Shutdown initiated...
+INFO 2019-05-07 21:36:29,192 [Thread-34] c.z.h.HikariDataSource.close 352 :HikariPool-7 - Shutdown completed.
+INFO 2019-05-07 21:36:29,534 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:36:29,534 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:36:30,009 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:36:30,010 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:36:30,011 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:36:30,125 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-8 - Starting...
+INFO 2019-05-07 21:36:30,132 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-8 - Start completed.
+WARN 2019-05-07 21:36:30,605 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:36:30,926 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.423 seconds (JVM running for 1610.327)
+INFO 2019-05-07 21:37:01,691 [Thread-39] c.z.h.HikariDataSource.close 350 :HikariPool-8 - Shutdown initiated...
+INFO 2019-05-07 21:37:01,697 [Thread-39] c.z.h.HikariDataSource.close 352 :HikariPool-8 - Shutdown completed.
+INFO 2019-05-07 21:37:02,199 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:37:02,200 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:37:02,661 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:37:02,662 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:37:02,663 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:37:02,765 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-9 - Starting...
+INFO 2019-05-07 21:37:02,771 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-9 - Start completed.
+WARN 2019-05-07 21:37:03,223 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:37:03,563 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.402 seconds (JVM running for 1642.964)
+INFO 2019-05-07 21:37:30,231 [Thread-44] c.z.h.HikariDataSource.close 350 :HikariPool-9 - Shutdown initiated...
+INFO 2019-05-07 21:37:30,238 [Thread-44] c.z.h.HikariDataSource.close 352 :HikariPool-9 - Shutdown completed.
+INFO 2019-05-07 21:37:30,563 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:37:30,564 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:37:31,163 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:37:31,163 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:37:31,164 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:37:31,266 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-10 - Starting...
+INFO 2019-05-07 21:37:31,270 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-10 - Start completed.
+WARN 2019-05-07 21:37:31,732 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:37:31,982 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.464 seconds (JVM running for 1671.382)
+INFO 2019-05-07 21:41:35,163 [Thread-49] c.z.h.HikariDataSource.close 350 :HikariPool-10 - Shutdown initiated...
+INFO 2019-05-07 21:41:35,167 [Thread-49] c.z.h.HikariDataSource.close 352 :HikariPool-10 - Shutdown completed.
+INFO 2019-05-07 21:41:35,559 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:41:35,560 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:41:36,023 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:41:36,023 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:41:36,025 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:41:36,133 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-11 - Starting...
+INFO 2019-05-07 21:41:36,139 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-11 - Start completed.
+WARN 2019-05-07 21:41:36,665 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:41:36,968 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.442 seconds (JVM running for 1916.368)
+INFO 2019-05-07 21:42:07,702 [Thread-54] c.z.h.HikariDataSource.close 350 :HikariPool-11 - Shutdown initiated...
+INFO 2019-05-07 21:42:07,712 [Thread-54] c.z.h.HikariDataSource.close 352 :HikariPool-11 - Shutdown completed.
+INFO 2019-05-07 21:42:08,132 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:42:08,133 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:42:08,619 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:42:08,619 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:42:08,621 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:42:08,715 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-12 - Starting...
+INFO 2019-05-07 21:42:08,720 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-12 - Start completed.
+WARN 2019-05-07 21:42:09,161 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:42:09,462 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.365 seconds (JVM running for 1948.862)
+INFO 2019-05-07 21:47:17,488 [Thread-59] c.z.h.HikariDataSource.close 350 :HikariPool-12 - Shutdown initiated...
+INFO 2019-05-07 21:47:17,494 [Thread-59] c.z.h.HikariDataSource.close 352 :HikariPool-12 - Shutdown completed.
+INFO 2019-05-07 21:47:17,945 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:47:17,945 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:47:18,427 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:47:18,428 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:47:18,430 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:47:18,568 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-13 - Starting...
+INFO 2019-05-07 21:47:18,575 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-13 - Start completed.
+WARN 2019-05-07 21:47:19,102 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:47:19,332 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.419 seconds (JVM running for 2258.733)
+INFO 2019-05-07 21:47:22,715 [Thread-64] c.z.h.HikariDataSource.close 350 :HikariPool-13 - Shutdown initiated...
+INFO 2019-05-07 21:47:22,720 [Thread-64] c.z.h.HikariDataSource.close 352 :HikariPool-13 - Shutdown completed.
+INFO 2019-05-07 21:47:23,198 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:47:23,198 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:47:23,654 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:47:23,655 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:47:23,656 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:47:23,748 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-14 - Starting...
+INFO 2019-05-07 21:47:23,751 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-14 - Start completed.
+WARN 2019-05-07 21:47:24,138 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:47:24,395 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.223 seconds (JVM running for 2263.796)
+INFO 2019-05-07 21:49:20,151 [Thread-69] c.z.h.HikariDataSource.close 350 :HikariPool-14 - Shutdown initiated...
+INFO 2019-05-07 21:49:20,156 [Thread-69] c.z.h.HikariDataSource.close 352 :HikariPool-14 - Shutdown completed.
+INFO 2019-05-07 21:49:20,567 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:49:20,567 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+ERROR 2019-05-07 21:49:20,913 [restartedMain] o.s.b.SpringApplication.reportFailure 833 :Application run failed
+java.lang.IllegalArgumentException: Bean name must not be empty
+	at org.springframework.util.Assert.hasText(Assert.java:276) ~[spring-core-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.registerBeanDefinition(DefaultListableBeanFactory.java:792) ~[spring-beans-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForBeanMethod(ConfigurationClassBeanDefinitionReader.java:267) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:141) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:117) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:328) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:233) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:273) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:93) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:693) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:531) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at com.springboot.com.springbootexample.App.main(App.java:15) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_161]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+INFO 2019-05-07 21:52:10,509 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:52:10,510 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+ERROR 2019-05-07 21:52:10,816 [restartedMain] o.s.b.SpringApplication.reportFailure 833 :Application run failed
+java.lang.IllegalStateException: Error processing condition on com.springboot.com.springbootexample.configuretion.Myconfig
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:64) ~[spring-boot-autoconfigure-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.context.annotation.ConditionEvaluator.shouldSkip(ConditionEvaluator.java:109) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader$TrackedConditionEvaluator.shouldSkip(ConfigurationClassBeanDefinitionReader.java:443) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:128) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:117) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:328) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:233) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:273) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:93) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:693) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:531) ~[spring-context-5.0.4.RELEASE.jar:5.0.4.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at com.springboot.com.springbootexample.App.main(App.java:15) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_161]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+Caused by: java.lang.IllegalStateException: @ConditionalOnBean did not specify a bean using type, name or annotation
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition$BeanSearchSpec.validate(OnBeanCondition.java:388) ~[spring-boot-autoconfigure-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition$BeanSearchSpec.<init>(OnBeanCondition.java:380) ~[spring-boot-autoconfigure-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchOutcome(OnBeanCondition.java:79) ~[spring-boot-autoconfigure-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:47) ~[spring-boot-autoconfigure-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	... 22 common frames omitted
+INFO 2019-05-07 21:52:53,859 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 21:52:53,859 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 21:52:54,330 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 21:52:54,330 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 21:52:54,331 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 21:52:54,430 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-15 - Starting...
+INFO 2019-05-07 21:52:54,435 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-15 - Start completed.
+WARN 2019-05-07 21:52:55,031 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 21:52:55,321 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.489 seconds (JVM running for 2594.722)
+INFO 2019-05-07 22:09:41,440 [Thread-74] c.z.h.HikariDataSource.close 350 :HikariPool-15 - Shutdown initiated...
+INFO 2019-05-07 22:09:41,447 [Thread-74] c.z.h.HikariDataSource.close 352 :HikariPool-15 - Shutdown completed.
+INFO 2019-05-07 22:09:42,147 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:09:42,148 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:09:42,879 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:09:42,880 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:09:42,881 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:09:43,052 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-16 - Starting...
+INFO 2019-05-07 22:09:43,061 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-16 - Start completed.
+WARN 2019-05-07 22:09:43,506 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:09:43,753 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.643 seconds (JVM running for 3603.153)
+INFO 2019-05-07 22:09:49,180 [Thread-86] c.z.h.HikariDataSource.close 350 :HikariPool-16 - Shutdown initiated...
+INFO 2019-05-07 22:09:49,185 [Thread-86] c.z.h.HikariDataSource.close 352 :HikariPool-16 - Shutdown completed.
+INFO 2019-05-07 22:09:49,875 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:09:49,876 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:09:50,396 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:09:50,396 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:09:50,398 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:09:50,502 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-17 - Starting...
+INFO 2019-05-07 22:09:50,506 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-17 - Start completed.
+WARN 2019-05-07 22:09:50,981 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:09:51,236 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.39 seconds (JVM running for 3610.636)
+INFO 2019-05-07 22:12:31,743 [Thread-91] c.z.h.HikariDataSource.close 350 :HikariPool-17 - Shutdown initiated...
+INFO 2019-05-07 22:12:31,750 [Thread-91] c.z.h.HikariDataSource.close 352 :HikariPool-17 - Shutdown completed.
+INFO 2019-05-07 22:12:32,176 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:12:32,177 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:12:32,758 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:12:32,758 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:12:32,760 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:12:32,878 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-18 - Starting...
+INFO 2019-05-07 22:12:32,883 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-18 - Start completed.
+WARN 2019-05-07 22:12:33,320 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:12:33,583 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.447 seconds (JVM running for 3772.983)
+INFO 2019-05-07 22:12:41,065 [Thread-96] c.z.h.HikariDataSource.close 350 :HikariPool-18 - Shutdown initiated...
+INFO 2019-05-07 22:12:41,076 [Thread-96] c.z.h.HikariDataSource.close 352 :HikariPool-18 - Shutdown completed.
+INFO 2019-05-07 22:12:41,433 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:12:41,433 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:12:41,978 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:12:41,978 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:12:41,980 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:12:42,082 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-19 - Starting...
+INFO 2019-05-07 22:12:42,087 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-19 - Start completed.
+WARN 2019-05-07 22:12:42,510 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:12:42,838 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.435 seconds (JVM running for 3782.239)
+INFO 2019-05-07 22:12:46,168 [Thread-101] c.z.h.HikariDataSource.close 350 :HikariPool-19 - Shutdown initiated...
+INFO 2019-05-07 22:12:46,174 [Thread-101] c.z.h.HikariDataSource.close 352 :HikariPool-19 - Shutdown completed.
+INFO 2019-05-07 22:12:46,541 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:12:46,541 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:12:46,986 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:12:46,986 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:12:46,988 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:12:47,111 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-20 - Starting...
+INFO 2019-05-07 22:12:47,114 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-20 - Start completed.
+WARN 2019-05-07 22:12:47,510 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:12:47,794 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.286 seconds (JVM running for 3787.194)
+INFO 2019-05-07 22:32:10,614 [Thread-106] c.z.h.HikariDataSource.close 350 :HikariPool-20 - Shutdown initiated...
+INFO 2019-05-07 22:32:10,621 [Thread-106] c.z.h.HikariDataSource.close 352 :HikariPool-20 - Shutdown completed.
+INFO 2019-05-07 22:32:11,227 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:32:11,227 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:32:11,761 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:32:11,761 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:32:11,763 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:32:11,877 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-21 - Starting...
+INFO 2019-05-07 22:32:11,882 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-21 - Start completed.
+WARN 2019-05-07 22:32:12,315 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:32:12,560 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.362 seconds (JVM running for 4951.961)
+INFO 2019-05-07 22:32:37,223 [Thread-111] c.z.h.HikariDataSource.close 350 :HikariPool-21 - Shutdown initiated...
+INFO 2019-05-07 22:32:37,226 [Thread-111] c.z.h.HikariDataSource.close 352 :HikariPool-21 - Shutdown completed.
+INFO 2019-05-07 22:32:37,862 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:32:37,862 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:32:38,333 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:32:38,333 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:32:38,334 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:32:38,428 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-22 - Starting...
+INFO 2019-05-07 22:32:38,432 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-22 - Start completed.
+WARN 2019-05-07 22:32:38,854 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:32:39,083 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.258 seconds (JVM running for 4978.484)
+INFO 2019-05-07 22:34:55,145 [Thread-116] c.z.h.HikariDataSource.close 350 :HikariPool-22 - Shutdown initiated...
+INFO 2019-05-07 22:34:55,159 [Thread-116] c.z.h.HikariDataSource.close 352 :HikariPool-22 - Shutdown completed.
+INFO 2019-05-07 22:35:44,620 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:35:44,620 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:35:47,770 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:35:47,770 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:35:47,772 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:35:48,456 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-23 - Starting...
+INFO 2019-05-07 22:35:48,464 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-23 - Start completed.
+WARN 2019-05-07 22:35:49,123 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:35:49,583 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 5.81 seconds (JVM running for 5168.983)
+INFO 2019-05-07 22:36:35,460 [Thread-121] c.z.h.HikariDataSource.close 350 :HikariPool-23 - Shutdown initiated...
+INFO 2019-05-07 22:36:35,465 [Thread-121] c.z.h.HikariDataSource.close 352 :HikariPool-23 - Shutdown completed.
+INFO 2019-05-07 22:36:35,950 [restartedMain] c.s.c.s.App.logStarting 50 :Starting App on CHINA-20190414F with PID 26284 (D:\workspace\com.springbootexample\target\classes started by Administrator in D:\workspace\com.springbootexample)
+INFO 2019-05-07 22:36:35,951 [restartedMain] c.s.c.s.App.logStartupProfileInfo 652 :No active profile set, falling back to default profiles: default
+WARN 2019-05-07 22:36:36,469 [restartedMain] i.u.websockets.jsr.handleDeployment 67 :UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+WARN 2019-05-07 22:36:36,469 [restartedMain] i.u.websockets.jsr.handleDeployment 76 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-05-07 22:36:36,471 [restartedMain] io.undertow.servlet.log 360 :Initializing Spring embedded WebApplicationContext
+INFO 2019-05-07 22:36:36,609 [restartedMain] c.z.h.HikariDataSource.getConnection 110 :HikariPool-24 - Starting...
+INFO 2019-05-07 22:36:36,614 [restartedMain] c.z.h.HikariDataSource.getConnection 123 :HikariPool-24 - Start completed.
+WARN 2019-05-07 22:36:37,036 [restartedMain] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor 235 :spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+INFO 2019-05-07 22:36:37,396 [restartedMain] c.s.c.s.App.logStarted 59 :Started App in 1.482 seconds (JVM running for 5216.796)
+INFO 2019-05-07 22:46:00,612 [RMI TCP Connection(56)-127.0.0.1] c.z.h.HikariDataSource.close 350 :HikariPool-24 - Shutdown initiated...
+INFO 2019-05-07 22:46:00,625 [RMI TCP Connection(56)-127.0.0.1] c.z.h.HikariDataSource.close 352 :HikariPool-24 - Shutdown completed.

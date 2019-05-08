@@ -1,0 +1,17 @@
+Spring Boot可以以jar方式运行，也可以部署到支持Servlet3.0或者支持较早的Servlet2.5的Web服务器上
+Spring Boot应用部署通常会面临多个部署环境，如测试环境、线上环境、演示环境等
+一、以jar文件运行
+	Spring Boot默认以jar包方式运行，可以在Maven配置如下插件，将Spring Boot 导出成可执行jar文件。
+										  <build>
+							  <plugins>
+								<plugin>
+								 <groupId>org.springframework.boot</groupId>
+								 <artifactId>spring-boot-maven-plugin</artifactId>
+								 <configuration>
+								  <executable>true</executable>
+								 </configuration>
+								</plugin>
+							  </plugins>
+							  </build>
+							  在工程目录下的命令行中运行mvn package
+							  package会将Maven工程打包陈一个可执行的jar文件存放在target目录下面

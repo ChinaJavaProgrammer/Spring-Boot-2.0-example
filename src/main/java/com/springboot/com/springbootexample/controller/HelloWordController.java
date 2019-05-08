@@ -7,6 +7,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.UUID;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
@@ -633,4 +634,22 @@ public class HelloWordController {
 		return page;
 	}
 ///////////////////////Spring Data JPA///////////////
+	
+	
+	/////////////////////////////////@Value注解//////////////////////////////////
+	/**
+	 * 通过{@value}注解获取application.properties里面的配置信息
+	 * 注：{@value}并不能在任何Spring管理的Bean中使用，因为{@value}本身是通过AutowiredAnnotationBeanPostProcessor实现的
+	 * 		它是BeanPostProcessor接口的实现类，因此任何BeanPostProcessor和BeanFactoryPostProcessor的子类中都不能使用{@value}
+	 * 		注解来注入属性，因为那时候{@value}还没有被处理
+	 * 		{@value}注解支持SpEl表达式，如果属性不存在，可以为其提供一个默认值:@value("${cache.enable:false}")
+	 * @param port
+	 * @return
+	 */
+	@GetMapping("/test@Value.json")
+	public @ResponseBody String getPort(@Value("${server.port}") int port) {
+		return "port:"+port;
+	}
+	/////////////////////////////////@Value注解//////////////////////////////////
+	
 }
